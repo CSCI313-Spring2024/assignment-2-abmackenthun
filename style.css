@@ -1,0 +1,66 @@
+.body
+{
+    font-family: Arial, san-serif;
+    background-color: #f8f9fa;
+    color: #333;    
+}
+
+.navbar 
+{
+    background-color: #343a40;
+}
+
+.navbar-brand
+{
+    color: #fff;
+}
+
+.navbar-nav .nav-link
+{
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover
+{
+    color: #ccc;
+}
+
+.container
+{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.container h1 
+{
+    color: #333;
+}
+
+.container p
+{
+    color: #555;
+}
+
+.table
+{
+    background-color: #f8f9fa;
+}
+
+.table th
+{
+    background-color: #343a40;
+    color: #fff;
+}
+
+a 
+{
+    color: #007bff;
+}
+
+a:hover 
+{
+    color: #0056b3;
+}
